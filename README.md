@@ -10,11 +10,29 @@ A simple calculator app built with HTML, CSS, and JavaScript.
 
 ## Usage
 
-1. Clone the repository: `git clone https://github.com/omkargarde/calculator-using-ts-html-css.git`
-2. cd calculator-using-ts-html-css
-3. bun install
-4. bun run dev
-5. Use the calculator app to perform arithmetic operations
+1. Clone the repository:
+
+```bash
+git clone https://github.com/omkargarde/calculator-using-ts-html-css.git
+```
+
+2. go inside the directory:
+
+```bash
+cd calculator-using-ts-html-css
+```
+
+3. install the dependency:
+
+```bash
+bun install
+```
+
+4. start the dev server
+
+```bash
+bun run dev
+```
 
 ## Code Structure
 
